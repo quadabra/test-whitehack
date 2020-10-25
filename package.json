@@ -16,9 +16,6 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "proi-ui": "^0.1.7",
-    "proi-ui-icons": "0.0.3",
-    "sirv-cli": "^1.0.0",
-    "svelte-pagination": "0.0.1"
+    "sirv-cli": "^1.0.0"
   }
 }
